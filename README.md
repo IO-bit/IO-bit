@@ -1,6 +1,16 @@
 ## Hi I'm Fernando Robles :fox_face:
 
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    Hola, soy Fernando Robles Rivera :wave:
+    <br><br>
+    Trabajo como desarrollador Web Sr. en Elektra :globe_with_meridians: developer!
+    <br><br>
+    PD ¡Sé que HTML no es un lenguaje de programación! :v:
+  </samp>
+</p>
 
 :computer: _Software Engenieer at [Elektra](https://github.com/IO-bit)_ :world:Vivo in México :mexico: y me encantan los videojuegos
 
@@ -49,6 +59,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=ffffff)
 ![Mac](http://img.shields.io/badge/-Mac-000000?logo=apple&logoColor=ffffff)
 
+### Stats 
 
 ![IO-bit github stats](https://github-readme-stats.vercel.app/api?username=IO-bit&show_icons=true&line_height=30)
 
