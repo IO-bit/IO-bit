@@ -6,18 +6,15 @@
   <samp>
     Hola, soy Fernando Robles Rivera :wave:
     <br><br>
-    Trabajo como desarrollador Web Sr. en Elektra :globe_with_meridians: developer!
+    Trabajo como Software Engenieer Sr. en Elektra :globe_with_meridians: developer!
     <br><br>
+    Vivo in México :mexico:
+    <br><br>
+    Me encantan los videojuegos <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
+     <br><br>
     PD ¡Sé que HTML no es un lenguaje de programación! :v:
   </samp>
 </p>
-
-:computer: _Software Engenieer at [Elektra](https://github.com/IO-bit)_ :world:Vivo in México :mexico: y me encantan los videojuegos
-
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
-</div>
-
 
 ### My Tech Stack
 
