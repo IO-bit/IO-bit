@@ -10,7 +10,7 @@
     <br><br>
     Vivo in México :mexico:
     <br><br>
-    Me encantan los videojuegos <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
+    Me encantan los videojuegos <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="30" height="30" style=" position:relative; top:10px;">
      <br><br>
     PD ¡Sé que HTML no es un lenguaje de programación! :v:
   </samp>
