@@ -2,7 +2,12 @@
 
 ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
-:computer: _Software Engenieer at [Elektra](https://github.com/IO-bit)_ :desert_island:Living in México :mexico:
+:computer: _Software Engenieer at [Elektra](https://github.com/IO-bit)_ :world:Vivo in México :mexico: y me encantan los videojuegos
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
+</div>
+
 
 ### My Tech Stack
 
@@ -43,6 +48,10 @@
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=ffffff)
 ![Mac](http://img.shields.io/badge/-Mac-000000?logo=apple&logoColor=ffffff)
+
+
+![IO-bit github stats](https://github-readme-stats.vercel.app/api?username=IO-bit&show_icons=true&line_height=30)
+
 
 ---
 ⭐️ From [Fernando](https://github.com/IO-bit)
